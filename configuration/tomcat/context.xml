@@ -27,8 +27,8 @@
     <!--
     <Manager pathname="" />
     -->
-    <JarScanner>
+    <!--<JarScanner>
         <JarScanFilter pluggabilityScan="${tomcat.util.scan.StandardJarScanFilter.jarsToScan}, bcprov-jdk15on-1.55.jar"/>
-    </JarScanner>
+    </JarScanner>-->
     <Resources cachingAllowed="true" cacheMaxSize="100000" />
 </Context>
